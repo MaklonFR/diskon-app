@@ -46,3 +46,6 @@ Proyek ini dibuat untuk tujuan edukasi dan dapat digunakan secara bebas.
 ---
 ✨ Dibuat dengan ❤️ untuk membantu perhitungan diskon lebih mudah! 🚀
 
+## Link Youtube Tutorial:
+https://www.youtube.com/watch?v=rdSPywx1Brs
+
