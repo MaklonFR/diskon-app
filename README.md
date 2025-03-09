@@ -1,4 +1,5 @@
 # Aplikasi Perhitungan Diskon
+![diskonapp](https://github.com/user-attachments/assets/23f1aecb-bbca-42bd-825d-b6d288f3437d)
 
 ## 📌 Deskripsi
 Aplikasi Perhitungan Diskon adalah sebuah aplikasi berbasis web yang digunakan untuk menghitung harga akhir suatu barang setelah diberikan diskon. Pengguna dapat memasukkan nama barang, kategori, harga awal, dan persentase diskon, lalu aplikasi akan menampilkan harga setelah diskon secara otomatis.
